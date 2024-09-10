@@ -1,0 +1,26 @@
+{
+  "//comment":{
+      "© Copyright 2024 ISTAFFVISION CONSULTING LLP or one of its affiliates.":"",
+      "This Source is ISTAFFVISION CONSULTING LLP's Copyright and no violation of Copyright is allowed":"",
+      
+      "iStaffVision Consulting LLP - Test Automation Framework 2024":"",
+      "//File Name" : "ISV_Config_Api.json",
+      "//Author" : "Manu M G",
+      "//Date" : "05/26/2024",
+      "//Version" : "1.00",
+      "//Code Description": "exchanging the data and store the data into the file. "
+
+  },
+  "DevEnv": {
+      "baseUrl": "",
+      "appName": "",
+      "env":"DevEnv",
+      "mysqlDataBaseConnection": {
+          "host": "",
+          "user": "",
+          "password": "",
+          "port": 3306
+      }
+  }
+
+}
